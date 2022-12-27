@@ -7,7 +7,7 @@ Hi there 👋
 </head>
 <body>
 - 🔭 <a href="https://csie.catholic.ac.kr/csie/index.html">The Catholic University Of Korea</a> <br>
-- 🌱 HTML5 / CSS3 / JS / JAVA / react / DB <br>
+- 🌱 HTML5 / CSS3 / JS / JAVA / React / DB <br>
 - 💬 youngjin1293@naver.com<br>
 - ⚡ GOLF / Fitness 
 </body>
