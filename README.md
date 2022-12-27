@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**youngjin-korea/youngjin-korea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studing in 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">  
+</head>
+<body>
+- 🔭 <a href="https://csie.catholic.ac.kr/csie/index.html">The Catholic University Of Korea</a> <br>
+- 🌱 HTML5 / CSS3 / JS / JAVA / react / DB <br>
+- 💬 youngjin1293@naver.com<br>
+- ⚡ GOLF / Fitness 
+</body>
+</html>
