@@ -6,11 +6,11 @@ Hi there 👋
 <meta charset="UTF-8">  
 </head>
 <body>
-  <div style="background-color:skyblue">
-- 🔭 <a href="https://csie.catholic.ac.kr/csie/index.html">The Catholic University Of Korea</a> <br>
-- 🌱 HTML5 / CSS3 / JS / JAVA / React / Mysql <br>
+- 🔭 <a href="https://www.catholic.ac.kr/index.do">The Catholic University Of Korea</a> <br>
+
+- 🌱 HTML5 / CSS3 / JS / React / JAVA / Mysql <br>
 - 💬 youngjin1293@naver.com<br>
 - ⚡ GOLF / Fitness 
-    </div>
+    
 </body>
 </html>
