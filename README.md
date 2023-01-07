@@ -1,5 +1,9 @@
 Hi there 👋
 
+<h3>I'm studying to be a Front-end developer. <br><br>
+<strong>The ultimate goal is a Full stack developer!</strong>
+</h3>
+<hr>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
