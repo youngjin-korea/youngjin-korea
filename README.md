@@ -14,6 +14,6 @@ Hi there 👋
 - 🔭 <a href="https://physics.catholic.ac.kr/physics/index.html">Physics</a> &amp; <a href="https://csie.catholic.ac.kr/csie/index.html">Computer Engineering</a> <br>
 - 🌱 HTML5 / CSS3 / JS / React / SQL <br>
 - 💬 youngjin1293@naver.com<br>
-- ⚡ GOLF / Fitness 
+- ⚡ GOLF / Fitness / Boxing
 </body>
 </html>
