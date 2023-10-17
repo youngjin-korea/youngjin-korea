@@ -10,7 +10,7 @@
 
 ![Young Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngjin-korea&theme=dark&show_icons=true)
 
-# 🧑🏻‍💻 Skills　|　📚 Studing
+# 🧑🏻‍💻 Skills　|　📚 Studying
 
 
 
