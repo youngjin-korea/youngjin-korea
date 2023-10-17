@@ -1,19 +1,10 @@
-Hi there 👋
 
-<h3>I'm studying to be a Front-end developer. <br><br>
-<strong>The ultimate goal is a Full stack developer!</strong>
-</h3>
-<hr>
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-<meta charset="UTF-8">  
-</head>
-<body>
-- 🔭 <a href="https://www.catholic.ac.kr/index.do">The Catholic University Of Korea</a> <br>
-- 🔭 <a href="https://physics.catholic.ac.kr/physics/index.html">Physics</a> &amp; <a href="https://csie.catholic.ac.kr/csie/index.html">Computer Engineering</a> <br>
-- 🌱 HTML5 / CSS3 / JS / React / SQL <br>
-- 💬 youngjin1293@naver.com<br>
-- ⚡ GOLF / Fitness / Boxing
-</body>
-</html>
+<div align='center'>
+  
+# Hello, I'm Young Jin 🐮
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungjin-korea&count_bg=%233B9BD0&title_bg=%232A5057&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=god966)](https://solved.ac/god966/)
+</div>
