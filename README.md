@@ -1,7 +1,12 @@
 
 <div align='center'>
   
-# Hello, I'm Young Jin 🐮 <br/> JAVA - SPRING & NODEJS - NEST & REACT.JS
+# Hello, I'm Young Jin 🐮 <br/> <b>JAVA - SPRING & SPRINGBOOT + MYBATIS & JPA</b>  <br/>
+
+SUB: NODEJS - NEST & REACT.JS
+
+
+
 
 <h2>🪪 Certificate</h2> 
 <ul>
