@@ -8,7 +8,7 @@ SUB: PYTHON DJANGO & NODEJS - NEST & REACT.JS
 <h2>💼 Employment History</h2> 
 <ul>
   <li> 현) SUN MIGHT(주) : POWER BUILDER & ORACLE & PYTHON</li>
-  <li> 전) 놀잇(주) : Front-End</li>
+  <li> 전) 놀잇(주) : Front-End (Flutter, React.js)</li>
   <li>THE CATHOLIC UNIV OF KOREA</li>
 </ul>
 
