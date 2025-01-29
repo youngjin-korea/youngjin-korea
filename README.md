@@ -1,7 +1,7 @@
 
 <div align='center'>
   
-# Hello, I'm Young Jin 🐮 <br/> <b>JAVA - SPRING & SPRINGBOOT + MYBATIS & JPA</b>  <br/>
+# Hello, I'm Young Jin 🐮 <br/> <b>JAVA - SPRING & SPRINGBOOT + MYBATIS & JPA <br/> + JSP & THYMELEAF</b>  <br/>
 
 SUB: PYTHON DJANGO & NODEJS - NEST & REACT.JS
 
