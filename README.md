@@ -3,7 +3,7 @@
   
 # Hello, I'm Young Jin 🐮 <br/> <b>JAVA - SPRING & SPRINGBOOT + MYBATIS & JPA <br/> + JSP & THYMELEAF</b>  <br/>
 
-SUB: PYTHON DJANGO & NODEJS - NEST & REACT.JS
+SUB: PYTHON & NODEJS TYPESCRIPT & REACT.JS
 
 <h2>💼 Employment History</h2> 
 <ul>
