@@ -17,7 +17,7 @@ SUB: PYTHON DJANGO & NODEJS - NEST & REACT.JS
 <ul>
   <li>정보처리기사 (2023.06)</li>
   <li>SQLD (2023.07)</li>
-  <li> KCC정보통신 4기 전자정부프레임워크 교육</li>
+  <li> KCC정보통신 4기 전자정부프레임워크 교육 (2024.05 ~ 2024.10)</li>
 </ul>
 
 </div>
