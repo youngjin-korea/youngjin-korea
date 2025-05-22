@@ -7,7 +7,7 @@ SUB: PYTHON & NODEJS TYPESCRIPT & REACT.JS
 
 <h2>💼 Employment History</h2> 
 <ul>
-  <li> 현) SUN MIGHT(주) : POWER BUILDER & ORACLE & C# .NET MS-SQL</li>
+  <li> 현) SUN MIGHT(주) : POWER BUILDER & ORACLE </li>
   <li> 전) 놀잇(주) : Front-End (Flutter, React.js)</li>
   <li>👨🏻‍🎓 THE CATHOLIC UNIV OF KOREA</li>
 </ul>
